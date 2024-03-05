@@ -45,6 +45,7 @@ content_style = {
 
 sidebar = html.Div(
     [
+        html.Img(),
         html.H2("Control Panel", className="display-4", style={
             'fontSize': '32px',
             'textAlign': 'center',
